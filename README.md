@@ -5,7 +5,16 @@
 - 😄 Pronouns: Call me anything, just don't call me at 3 AM to ask if my refrigerator is running (She/Her if you need one)
 - ⚡ Fun fact: The file system Lex navigates in Jurassic Park was an actual program made by Silicon Graphics... it looks cool, but seems horribly unusable.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,css,html,react,tailwind,git,nodejs,postgres,prisma)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,css,prisma,html,git,react,tailwind,nodejs,postgres,js" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rodentman87&show_icons=true&theme=solarized-light" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodentman87&layout=compact&theme=solarized-light" />
+  </a>
+</p>
 
-![Maisy's github stats](https://github-readme-stats.vercel.app/api?username=rodentman87&show_icons=true&theme=solarized-light)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodentman87&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
