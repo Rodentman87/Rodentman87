@@ -9,12 +9,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,css,prisma,html,git,react,tailwind,nodejs,postgres,js" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rodentman87&show_icons=true&theme=solarized-light" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodentman87&layout=compact&theme=solarized-light" />
-  </a>
 </p>
 
 
