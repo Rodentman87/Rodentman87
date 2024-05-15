@@ -4,11 +4,3 @@
 - ⚡ Fun fact: The file system Lex navigates in Jurassic Park was an actual program made by Silicon Graphics... it looks cool, but seems horribly unusable.
 
 Here's my website: https://www.likesdinosaurs.com/
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,css,prisma,discord,html,git,js,electron,react,nextjs,tailwind,nodejs,express,postgres,nestjs,md,regex&perline=7" />
-  </a>
-</p>
-
-
